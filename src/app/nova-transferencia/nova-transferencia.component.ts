@@ -1,4 +1,4 @@
-import { Transferencia } from './../services/models/transferencia.models';
+import { Transferencia } from '../models/transferencia.models';
 import { TransferenciaService } from './../services/transferencia.service';
 import { Component, EventEmitter, Output } from "@angular/core";
 
